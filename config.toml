@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://corginerd.github.io'
 languageCode = 'en-us'
 title = 'test site for research perposes nothing weird'
 theme = 'cleanwhite'

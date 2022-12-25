@@ -8,4 +8,4 @@ summary : "every one has questions"
 ---
 ## why
 because
-![Larg]("\img\download.jpg") 
+![Larg](/img/download.jpg) 

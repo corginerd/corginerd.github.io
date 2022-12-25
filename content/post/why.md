@@ -1,6 +1,6 @@
 ---
 title : "because"
-date : "12/25/2022"
+date : "2022-12-25"
 authors : 
 - larg squrrel
 slug : why

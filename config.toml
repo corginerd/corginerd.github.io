@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'test site for research perposes nothing weird'
+theme = 'cleanwhite'
+[params]
+    header_image = "img/download.jpg"
